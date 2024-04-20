@@ -2,7 +2,23 @@
 
 ### Pendahuluan
 
-Dalam dunia pemasaran, penting untuk dapat mengukur efektivitas kampanye pemasaran untuk memastikan penggunaan sumber daya yang optimal dan pencapaian tujuan bisnis. Dalam proyek ini, kami menggunakan Teorema Bayes untuk menganalisis data dan meningkatkan efektivitas kampanye pemasaran perusahaan e-commerce.
+Dalam era persaingan bisnis yang ketat, perusahaan e-commerce harus terus berinovasi untuk meningkatkan efektivitas kampanye pemasaran mereka. Salah satu pendekatan yang digunakan adalah memanfaatkan analisis data dan teknik-teknik kecerdasan buatan untuk memahami perilaku pelanggan dan meningkatkan targeting. Dalam konteks ini, Teorema Bayes menjadi alat yang sangat berguna dalam membantu perusahaan membuat keputusan yang lebih tepat berdasarkan informasi yang tersedia.
+
+### Permasalahan
+
+Sebuah perusahaan e-commerce besar ingin meningkatkan efektivitas kampanye pemasaran mereka. Namun, mereka menghadapi beberapa tantangan, antara lain:
+
+1. Bagaimana menghitung probabilitas bahwa seorang pelanggan yang menerima tawaran khusus dalam email akan berbelanja lagi?
+2. Apakah tawaran khusus dalam email benar-benar efektif? Bagaimana cara mengevaluasinya?
+3. Bagaimana cara mengoptimalkan kampanye pemasaran mereka berdasarkan hasil analisis?
+
+### Solusi
+
+Untuk mengatasi permasalahan di atas, perusahaan akan menggunakan Teorema Bayes dalam analisis data dan targeting pelanggan. Langkah-langkah yang akan diambil adalah sebagai berikut:
+
+1. Menggunakan Teorema Bayes, perusahaan akan menghitung probabilitas bahwa seorang pelanggan yang menerima tawaran khusus dalam email akan berbelanja lagi.
+2. Dengan Teorema Bayes, perusahaan akan mengevaluasi apakah tawaran khusus dalam email benar-benar efektif dengan membandingkan pelanggan yang menerima tawaran dengan yang tidak.
+3. Berdasarkan hasil analisis Teorema Bayes, perusahaan akan diberi saran tentang bagaimana mereka dapat meningkatkan efektivitas kampanye pemasaran mereka dan mengoptimalkan strategi pemasaran mereka.
 
 ### Langkah-langkah
 
