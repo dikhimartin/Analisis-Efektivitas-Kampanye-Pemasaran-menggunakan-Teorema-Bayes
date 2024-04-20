@@ -26,7 +26,7 @@ Dengan menggunakan Teorema Bayes, perusahaan dapat menghasilkan estimasi probabi
 ### Jupyter Notebook 
 
 Kunjungi notebook interaktif berikut untuk solusi dan penjelasan lebih lanjut!
-https://github.com/dikhimartin/probabilitas-posterior-teorema-bayes-diagnosa-medis/blob/master/Menghitung_Probabilitas_Posterior_Menggunakan_Teorema_Bayes.ipynb
+https://github.com/dikhimartin/Analisis-Efektivitas-Kampanye-Pemasaran-menggunakan-Teorema-Bayes/blob/master/Analisis_Efektivitas_Kampanye_Pemasaran_menggunakan_Teorema_Bayes.ipynb
 
 Cara menjalankan 
 ---------------
