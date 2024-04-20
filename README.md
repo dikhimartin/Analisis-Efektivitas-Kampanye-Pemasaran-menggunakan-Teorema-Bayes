@@ -64,10 +64,9 @@ Catatan :
 Referensi
 --------
 
-Muehlemann, N., Zhou, T., Mukherjee, R., Hossain, M. I., Roychoudhury, S., & Russek-Cohen, E. (2023). A Tutorial on Modern Bayesian Methods in Clinical Trials. *Therapeutic Innovation and Regulatory Science*, *57*(3), 402–416. https://doi.org/10.1007/s43441-023-00515-3
+Inggityeira. (2023, August 24). Prediksi Efektivitas Marketing Campaign terhadap Berbagai Customer Menggunakan Metode Naive Bayes. *Medium*. https://medium.com/@inggityeira/prediksi-efektivitas-marketing-campaign-terhadap-berbagai-customer-menggunakan-metode-naive-bayes-5de924d60595
 
-Verma, V., Mishra, A. K., & Narang, R. (2019). Application of Bayesian analysis in medical diagnosis. *Journal of the Practice of Cardiovascular Sciences*, *5*(3), 136. https://doi.org/10.4103/jpcs.jpcs_51_19
+*Bayes’ Theorem (Stanford Encyclopedia of Philosophy)*. (2003, September 30). https://plato.stanford.edu/entries/bayes-theorem/
 
-*Conditional probability with Bayes’ Theorem*. (n.d.). [Video]. Khan Academy. https://www.khanacademy.org/math/ap-statistics/probability-ap/stats-conditional-probability/v/bayes-theorem-visualized
+ER, Ngurah Agus Sanjaya & Kadyanan, I Gusti Agung Gede. (2021). User Loyalty Prediction Using Naive Bayes Method in "Udatari" an art Performance Marketplace. Jurnal Ilmu Komputer. http://dx.doi.org/10.24843/JIK.2021.v14.i01.p07
 
-Kelik, A., Dan, N., & Wardoyo, R. (2013). Sistem Pakar Menggunakan Teorema Bayes untuk Mendiagnosa Penyakit Kehamilan Expert System using Bayesian Theorem to Diagnose Pregnancy Diseases. In *Berkala MIPA* (Vol. 23, Issue 3). https://media.neliti.com/media/publications/241866-sistem-pakar-menggunakan-teorema-bayes-u-d0cb123a.pdf
