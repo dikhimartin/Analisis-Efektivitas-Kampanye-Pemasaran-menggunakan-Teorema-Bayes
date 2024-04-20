@@ -26,7 +26,7 @@ Dengan menggunakan Teorema Bayes, perusahaan dapat menghasilkan estimasi probabi
 ### Jupyter Notebook 
 
 Kunjungi notebook interaktif berikut untuk solusi dan penjelasan lebih lanjut!
-https://github.com/dikhimartin/Analisis-Efektivitas-Kampanye-Pemasaran-menggunakan-Teorema-Bayes/blob/master/Analisis_Efektivitas_Kampanye_Pemasaran_menggunakan_Teorema_Bayes.ipynb
+https://github.com/dikhimartin/analysis-of-marketing-campaign-effectiveness-using-bayes-theorem/blob/master/main.ipynb
 
 Cara menjalankan 
 ---------------
@@ -37,8 +37,8 @@ Mulailah dengan menginstal [Anaconda](https://www.anaconda.com/products/distribu
 
 Selanjutnya, clone repositori ini dengan membuka terminal dan mengetikkan perintah berikut (jangan ketik tanda $ pertama pada setiap baris, itu hanya menunjukkan bahwa ini adalah perintah terminal):
 
-    $ git clone https://github.com/dikhimartin/probabilitas-posterior-teorema-bayes-diagnosa-medis
-    $ cd probabilitas-posterior-teorema-bayes-diagnosa-medis
+    $ git clone https://github.com/dikhimartin/analysis-of-marketing-campaign-effectiveness-using-bayes-theorem.git
+    $ cd analysis-of-marketing-campaign-effectiveness-using-bayes-theorem
 
 Selanjutnya, jalankan perintah-perintah berikut:
 
